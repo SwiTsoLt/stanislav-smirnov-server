@@ -1,0 +1,6 @@
+{
+    "port": 8080,
+    "mongoUri": "mongodb+srv://Stanislav:82363newlife@cluster0.ifcte.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "NewLife",
+    "searchLimit": 5
+}
